@@ -1,2 +1,2 @@
 Name:Sankha,
-Input:2
+Input:5
